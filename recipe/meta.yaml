@@ -11,7 +11,7 @@ source:
   sha256: 3ede829ed8d842f6cd48fc7081d7a41001a56f1f38603f9d49bf3020d59a31ad
 
 build:
-  number: 1
+  number: 2
   noarch: python             # [use_noarch]
   track_features:            # [use_noarch]
     - frozenlist_no_compile  # [use_noarch]
